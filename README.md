@@ -1,5 +1,8 @@
-# Boilerplate for express+TypeScript development
-A Boilerplate for express+TypeScript development with Node.js. 
+## Qtum Cache
+Quantum-Cache. We aim to scale up Quantum community by attracting Ethereum community to solve blockchain world’s problem.
+
+## Demo Video
+https://youtu.be/hvh1FcaYjPo
 
 ## Quickstart
 You need to install Node.js v6.x.x
